@@ -20,7 +20,6 @@ size_of_board(5).
 switch_player(b,w).
 switch_player(w,b).
 
-
 /*--------------------------------------------------------------------------
 prolognite/0: The main predicate that starts the program.
 --------------------------------------------------------------------------*/
