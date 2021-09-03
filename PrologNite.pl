@@ -1,9 +1,7 @@
 /*--------------------------------------------------------------------------
-CCP2410: Logic Programming
-Practical Title: Implementation of a two player game in Prolog
-Game: PrologNite
-Authors: Petros Kefalas, Ioanna Stamatopoulou
-Student: Nikolaos Lintas, Computer Science University of Sheffield
+Project Title: Implementation of a two player singleplayer game with AI in Prolog - PrologNite
+Original Authors: P.Kefalas, I.Stamatopoulou
+Editor: Nikolaos Lintas, Computer Science University of Sheffield
 --------------------------------------------------------------------------*/
 
 /*--------------------------------------------------------------------------
